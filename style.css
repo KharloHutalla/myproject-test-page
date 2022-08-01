@@ -1,11 +1,18 @@
-
+.pic{
+    text-align: center;
+}
+.txt{
+background: #FFE6E6;
+}
 h1, p{
 
     text-align: center;
-    
-
 
 }
 p{
     font-weight: 800;
+}
+
+body{
+    background: #C6DCE4;
 }
